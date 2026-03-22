@@ -3,6 +3,5 @@
 
 
 ## 內容
-  - [金融數據工作坊-以美國金融資料為例](https://colab.research.google.com/github/Python-Practical-Workshop/crawler/blob/master/us_fin_refine.ipynb)
-
-  	- 由於[舊版](https://colab.research.google.com/github/Python-Practical-Workshop/crawler/blob/master/us_fin.ipynb)使用到了 robots.txt Disallow 的程式碼，因此改版
+  - [金融數據工作坊-以美國金融資料為例](https://colab.research.google.com/github/Python-Practical-Workshop/crawler/blob/master/us_fin_refine.ipynb)   
+  ([舊版](https://colab.research.google.com/github/Python-Practical-Workshop/crawler/blob/master/us_fin.ipynb)有使用到了 robots.txt Disallow 的程式碼)
